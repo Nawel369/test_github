@@ -1,1 +1,1 @@
-<?php echo 'test scm';?>
+<?php echo 'test scm exercice2';?>
